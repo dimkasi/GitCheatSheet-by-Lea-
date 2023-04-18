@@ -30,7 +30,7 @@ _git init_ - initialize an existing directory as a Git repository
 - [ ] git fetch [alias] - fetch down all the branches from that Git remote
 - [ ] git merge [alias]/[branch] - merge a remote branch into your current branch to bring it up to date
 - [ ] git push [alias] [branch] - transmit local branch commits to the remote repository branch
-- [ ] git pull - fetch and merge any commits from the tracking remote branch
+- [x] git pull - fetch and merge any commits from the tracking remote branch
 
 ### To learn more:
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
