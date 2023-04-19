@@ -43,4 +43,7 @@ _git init_ - initialize an existing directory as a Git repository
         
         ## new changes 
         ## i m steelling Leas WORK 
-        
+
+         
+adding staff  
+*main control* 
